@@ -1,1 +1,1 @@
-# aws
+# Repository for AWS integration testing
