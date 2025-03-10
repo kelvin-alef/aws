@@ -7,6 +7,6 @@ resource "aws_instance" "ec2_instance" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "FreeTierInstance"
+    Name = "ec2_instance"
   }
 }
